@@ -1,4 +1,5 @@
 [![Serverless Components](https://s3.amazonaws.com/public.assets.serverless.com/images/readme_serverless_components.gif)](http://serverless.com)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhypexr%2Faws-lambda.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhypexr%2Faws-lambda?ref=badge_shield)
 
 <br/>
 
@@ -154,3 +155,7 @@ The `aws-lambda` component will then use all the data it needs from the built-in
 ```
 $ serverless remove --debug
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhypexr%2Faws-lambda.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhypexr%2Faws-lambda?ref=badge_large)
